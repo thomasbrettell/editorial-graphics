@@ -5,6 +5,9 @@
 ## New York Times
 - [An Extremely Detailed Map of New York City Neighborhoods](https://www.nytimes.com/interactive/2023/upshot/extremely-detailed-nyc-neighborhood-map.html)
 
+## The Pudding
+- [WHY THE SUPER RICH ARE INEVITABLE](https://pudding.cool/2022/12/yard-sale/)
+
 ## Reuters
 - [WALT DISNEY STUDIO'S DRAWING ON THE PAST](https://www.reuters.com/graphics/DISNEY-100/HISTORY/znvnzmzgjvl/)
 - [The destruction of Gaza](https://www.reuters.com/graphics/ISRAEL-PALESTINIANS/MAPS/zjvqedgdjvx/)
