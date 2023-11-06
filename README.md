@@ -4,6 +4,7 @@
 
 ## New York Times
 - [An Extremely Detailed Map of New York City Neighborhoods](https://www.nytimes.com/interactive/2023/upshot/extremely-detailed-nyc-neighborhood-map.html)
+- [THE DEADLY MAUI INFERNO, HOUR BY HOUR](https://www.nytimes.com/interactive/2023/11/01/us/hawaii-maui-fire-timeline.html)
 
 ## The Pudding
 - [WHY THE SUPER RICH ARE INEVITABLE](https://pudding.cool/2022/12/yard-sale/)
