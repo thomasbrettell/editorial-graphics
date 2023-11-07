@@ -2,6 +2,9 @@
 - [The renewable energy revolution](https://www.abc.net.au/news/2023-10-31/how-rooftop-solar-panels-transformed-energy-in-australia/102987100)
 - [Mapping the destruction and scale of conflict in Israel and Gaza](https://www.abc.net.au/news/2023-10-10/mapping-the-conflict-in-israel-and-gaza/102956502)
 
+## The Guardian
+- [The true cost of childcare: how much parents have to spend in England – interactive calculator](https://www.theguardian.com/society/ng-interactive/2023/nov/06/how-much-does-it-cost-for-you-to-raise-a-child)
+
 ## New York Times
 - [An Extremely Detailed Map of New York City Neighborhoods](https://www.nytimes.com/interactive/2023/upshot/extremely-detailed-nyc-neighborhood-map.html)
 - [THE DEADLY MAUI INFERNO, HOUR BY HOUR](https://www.nytimes.com/interactive/2023/11/01/us/hawaii-maui-fire-timeline.html)
