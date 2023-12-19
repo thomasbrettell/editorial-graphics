@@ -2,6 +2,9 @@
 - [The renewable energy revolution](https://www.abc.net.au/news/2023-10-31/how-rooftop-solar-panels-transformed-energy-in-australia/102987100)
 - [Mapping the destruction and scale of conflict in Israel and Gaza](https://www.abc.net.au/news/2023-10-10/mapping-the-conflict-in-israel-and-gaza/102956502)
 
+## B'Tselem
+- [CONQUER AND DIVIDE](https://conquer-and-divide.btselem.org/map-en.html)
+
 ## The Guardian
 - [The true cost of childcare: how much parents have to spend in England – interactive calculator](https://www.theguardian.com/society/ng-interactive/2023/nov/06/how-much-does-it-cost-for-you-to-raise-a-child)
 - [How the nation’s growing racial diversity is changing our schools](https://www.washingtonpost.com/graphics/2019/local/school-diversity-data/)
