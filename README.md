@@ -19,6 +19,7 @@
 - [Chinatown, Resilient and Proud](https://www.nytimes.com/interactive/2020/12/02/arts/design/chinatown-virtual-walk-tour.html)
 - [C.T.E. Study Finds That Young Football Players Are Getting the Disease - The New York Times](https://www.nytimes.com/interactive/2023/11/16/us/cte-youth-football.html)
 - [What Happened in One of Israel’s Deadliest Attacks in Gaza - The New York Times](https://www.nytimes.com/interactive/2023/12/28/world/middleeast/jabaliya-gaza-strike-israel.html)
+- [Dressel vs. Phelps. McLaughlin vs. Muhammad. Visualizing Olympic Champions, Present vs. Past](https://www.nytimes.com/interactive/2021/08/07/sports/olympics/olympic-races.html)
 
 ## The Pudding
 - [WHY THE SUPER RICH ARE INEVITABLE](https://pudding.cool/2022/12/yard-sale/)
