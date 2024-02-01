@@ -21,6 +21,7 @@
 - [What Happened in One of Israel’s Deadliest Attacks in Gaza - The New York Times](https://www.nytimes.com/interactive/2023/12/28/world/middleeast/jabaliya-gaza-strike-israel.html)
 - [Dressel vs. Phelps. McLaughlin vs. Muhammad. Visualizing Olympic Champions, Present vs. Past](https://www.nytimes.com/interactive/2021/08/07/sports/olympics/olympic-races.html)
 - [Trump’s Pattern of Pressure to Overturn the 2020 Election](https://www.nytimes.com/interactive/2024/01/08/us/trump-2020-overturn-timeline.html)
+- [How a Vast Demographic Shift Will Reshape the World](https://www.nytimes.com/interactive/2023/07/16/world/world-demographics.html)
 
 ## The Pudding
 - [WHY THE SUPER RICH ARE INEVITABLE](https://pudding.cool/2022/12/yard-sale/)
