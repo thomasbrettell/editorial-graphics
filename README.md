@@ -8,6 +8,9 @@
 ## El Confidencial
 - [BARRIO SALAMANCA](https://www.elconfidencial.com/vivienda/2022-04-11/casas-de-lujo-barrio-prime-salamanca-mercado-inmobiliario_3381104/)
 
+## Financial Times
+- [Inside the miracle of modern chip manufacturing](https://ig.ft.com/microchips/)
+
 ## The Guardian
 - [The true cost of childcare: how much parents have to spend in England – interactive calculator](https://www.theguardian.com/society/ng-interactive/2023/nov/06/how-much-does-it-cost-for-you-to-raise-a-child)
 - [How the nation’s growing racial diversity is changing our schools](https://www.washingtonpost.com/graphics/2019/local/school-diversity-data/)
