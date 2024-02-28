@@ -5,6 +5,9 @@
 ## B'Tselem
 - [CONQUER AND DIVIDE](https://conquer-and-divide.btselem.org/map-en.html)
 
+## Ciechanowski
+- [Airfoil](https://ciechanow.ski/airfoil/)
+
 ## El Confidencial
 - [BARRIO SALAMANCA](https://www.elconfidencial.com/vivienda/2022-04-11/casas-de-lujo-barrio-prime-salamanca-mercado-inmobiliario_3381104/)
 
