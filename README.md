@@ -7,7 +7,6 @@
 
 ## Bloomberg
 - [Corporate America Promised to Hire a Lot More People of Color. It Actually Did.](https://www.bloomberg.com/graphics/2023-black-lives-matter-equal-opportunity-corporate-diversity/)
-  - Something about this story went wrong, but its a nice concept
 
 ## Ciechanowski
 - [Airfoil](https://ciechanow.ski/airfoil/)
