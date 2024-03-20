@@ -16,6 +16,7 @@
 
 ## Financial Times
 - [Inside the miracle of modern chip manufacturing](https://ig.ft.com/microchips/)
+- [Generative AI exists because of the transformer](https://ig.ft.com/generative-ai/)
 
 ## The Guardian
 - [The true cost of childcare: how much parents have to spend in England – interactive calculator](https://www.theguardian.com/society/ng-interactive/2023/nov/06/how-much-does-it-cost-for-you-to-raise-a-child)
