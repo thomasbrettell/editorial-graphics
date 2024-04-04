@@ -34,6 +34,7 @@
 - [Trump’s Pattern of Pressure to Overturn the 2020 Election](https://www.nytimes.com/interactive/2024/01/08/us/trump-2020-overturn-timeline.html)
 - [How a Vast Demographic Shift Will Reshape the World](https://www.nytimes.com/interactive/2023/07/16/world/world-demographics.html)
 - [How America Reached One Million Covid Deaths](https://www.nytimes.com/interactive/2022/05/13/us/covid-deaths-us-one-million.html)
+- [A MAP OF EVERY BUILDING IN AMERICA](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html)
 
 ## The Pudding
 - [WHY THE SUPER RICH ARE INEVITABLE](https://pudding.cool/2022/12/yard-sale/)
