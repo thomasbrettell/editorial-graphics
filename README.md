@@ -23,6 +23,9 @@
 - [The true cost of childcare: how much parents have to spend in England – interactive calculator](https://www.theguardian.com/society/ng-interactive/2023/nov/06/how-much-does-it-cost-for-you-to-raise-a-child)
 - [How the nation’s growing racial diversity is changing our schools](https://www.washingtonpost.com/graphics/2019/local/school-diversity-data/)
 
+## Knowing Machines
+- [Models All The Way Down](https://knowingmachines.org/models-all-the-way)
+
 ## New York Times
 - [An Extremely Detailed Map of New York City Neighborhoods](https://www.nytimes.com/interactive/2023/upshot/extremely-detailed-nyc-neighborhood-map.html)
 - [THE DEADLY MAUI INFERNO, HOUR BY HOUR](https://www.nytimes.com/interactive/2023/11/01/us/hawaii-maui-fire-timeline.html)
