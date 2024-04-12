@@ -9,6 +9,9 @@
 ## Bloomberg
 - [Corporate America Promised to Hire a Lot More People of Color. It Actually Did.](https://www.bloomberg.com/graphics/2023-black-lives-matter-equal-opportunity-corporate-diversity/)
 
+## CBC News
+- [Here's who lives in your city's worst heat islands](https://ici.radio-canada.ca/info/2022/07/ilots-chaleur-villes-inegalites-injustice-changements-climatiques/en?tz=GMT%2B10)
+
 ## Ciechanowski
 - [Airfoil](https://ciechanow.ski/airfoil/)
 
