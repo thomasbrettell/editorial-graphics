@@ -42,6 +42,7 @@
 - [How America Reached One Million Covid Deaths](https://www.nytimes.com/interactive/2022/05/13/us/covid-deaths-us-one-million.html)
 - [A MAP OF EVERY BUILDING IN AMERICA](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html)
 - [How Has Gun Violence Changed in Your Neighborhood?](https://www.nytimes.com/interactive/2024/05/14/us/gun-homicides-map.html)
+- [What Ukraine Has Lost](https://www.nytimes.com/interactive/2024/06/03/world/europe/ukraine-destruction.html)
 
 ## The Pudding
 - [WHY THE SUPER RICH ARE INEVITABLE](https://pudding.cool/2022/12/yard-sale/)
