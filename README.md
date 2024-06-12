@@ -44,6 +44,7 @@
 - [How Has Gun Violence Changed in Your Neighborhood?](https://www.nytimes.com/interactive/2024/05/14/us/gun-homicides-map.html)
 - [What Ukraine Has Lost](https://www.nytimes.com/interactive/2024/06/03/world/europe/ukraine-destruction.html)
 - [Who Still Works From Home?](https://www.nytimes.com/interactive/2024/03/08/business/economy/remote-work-home.html)
+- [‘A Beautiful Place That Has a Dragon’: Where Hurricane Risk Meets Booming Growth](https://www.nytimes.com/interactive/2023/11/19/upshot/carolina-hurricanes.html)
 
 ## The Pudding
 - [WHY THE SUPER RICH ARE INEVITABLE](https://pudding.cool/2022/12/yard-sale/)
